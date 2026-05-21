@@ -881,17 +881,15 @@ textarea:focus {
     padding: 28px 22px;
   }
 }
-.brand-logo {
-  width: 90px !important;
-  height: auto !important;
-  display: block !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  position: relative !important;
-  z-index: 9999 !important;
-  object-fit: contain !important;
+.brand {
+  gap: 14px;
 }
+
 .brand-logo {
-  background: white !important;
-  border: 4px solid red !important;
+  width: 140px !important;
+  height: 140px !important;
+  border-radius: 50%;
+  object-fit: cover;
+  background: white;
+  padding: 6px;
 }
