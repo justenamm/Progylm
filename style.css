@@ -881,15 +881,3 @@ textarea:focus {
     padding: 28px 22px;
   }
 }
-.brand {
-  gap: 14px;
-}
-
-.brand-logo {
-  width: 140px !important;
-  height: 140px !important;
-  border-radius: 50%;
-  object-fit: cover;
-  background: white;
-  padding: 6px;
-}
