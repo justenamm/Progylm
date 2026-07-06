@@ -100,7 +100,13 @@ button, input, textarea, select { font: inherit; }
   position: sticky;
   top: 0;
   z-index: 100;
-  background: linear-gradient(90deg, rgba(251,255,255,.95), rgba(232,250,251,.93));
+  background: linear-gradient(
+135deg,
+#020617 0%,
+#0B1220 35%,
+#0F172A 70%,
+#111827 100%
+);
   border-bottom: 1px solid rgba(0,176,200,.22);
   backdrop-filter: blur(18px);
   box-shadow: 0 10px 30px rgba(0, 176, 200, .08);
